@@ -1,2 +1,2 @@
 # sinau-app
-Aplikasi Sistem Informasi NilAi dan Ujian
+Aplikasi Sistem Informasi NilAi dan Ujian (SINAU)
